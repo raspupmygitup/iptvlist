@@ -7,12 +7,6 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8?s
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
 #EXTINF:-4, RTL
 https://fernsehzone.com/proxy/2ix2.php/https://tv.bild-upload.com/rtl/tracks-v1a1/mono.m3u8
-#EXTINF:-5, Sat 1
-https://tv.bild-upload.com/sat1/tracks-v1a1/mono.m3u8
-#EXTINF:-6, DMAX
-https://tv.bild-upload.com/dmax/tracks-v1a1/mono.m3u8
-#EXTINF:-7, Kabel 1
-https://tv.bild-upload.com/kabel1/tracks-v1a1/mono.m3u8
 #EXTINF:-8, ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8?m=1584185142
 #EXTINF:-9, ORF 1
