@@ -13,3 +13,5 @@ https://tv.bild-upload.com/sat1/tracks-v1a1/mono.m3u8
 https://tv.bild-upload.com/dmax/tracks-v1a1/mono.m3u8
 #EXTINF:-7, Kabel 1
 https://tv.bild-upload.com/kabel1/tracks-v1a1/mono.m3u8
+#EXTINF:-8, ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8?m=1584185142
