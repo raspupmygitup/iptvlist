@@ -6,7 +6,7 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8?s
 #EXTINF:-3, Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
 #EXTINF:-4, RTL
-
+https://condigida.xyz:8443/live/rtl-hd/chunks.m3u8?nimblesessionid=6922&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIwIDQ6MzM6MDMgUE0maGFzaF92YWx1ZT1GWlYyNEsybVdJUnFub0xaL0tISWdBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-8, ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8?m=1584185142
 #EXTINF:-9, ORF 1
