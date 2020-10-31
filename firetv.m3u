@@ -5,5 +5,5 @@ http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8?sd=10
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-3, Servus TV tvg-name="Servus TV" tvg-logo="https://www.servustv.com/content/themes/rbmh-base-theme/src/img/svg/servus-logo.svg" group-title="", Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
-#EXTINF:-4, ORF 2
+#EXTINF:-4, ORF 2 tvg-name="ORF 2" tvg-logo="https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news.svg" group-title="", ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8?m=1584185142
