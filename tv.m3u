@@ -15,3 +15,5 @@ https://cdnseek.xyz:8443/live/kabeleins/chunks.m3u8?nimblesessionid=543434&wmsAu
 https://cdnseek.xyz:8443/live/dmax/chunks.m3u8?nimblesessionid=543453&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDE6NTc6NDkgUE0maGFzaF92YWx1ZT04aHIzZGpHTTdrelJVRlY1M0NyK253PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-8, RTL
 https://cdnseek.xyz:8443/live/rtl/chunks.m3u8?nimblesessionid=543531&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDI6MDE6MDQgUE0maGFzaF92YWx1ZT1nUy9TT0NUMDY4SXZEa0Jlc2UzUEFRPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-9, Pro 7
+https://cdnseek.xyz:8443/live/prosieben/chunks.m3u8?nimblesessionid=543950&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDI6MTQ6MTQgUE0maGFzaF92YWx1ZT1SSEp6dDIvVmVVcGNkVjF5QkxnSFZBPT0mdmFsaWRtaW51dGVzPTE=
