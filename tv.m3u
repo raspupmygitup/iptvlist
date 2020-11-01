@@ -12,6 +12,6 @@ https://s3.hopslan.com/doku/tracks-v1a1/mono.m3u8
 #EXTINF:-6, Kabel 1
 https://cdnseek.xyz:8443/live/kabeleins/chunks.m3u8?nimblesessionid=543434&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDE6NTc6MTMgUE0maGFzaF92YWx1ZT1tRlFLOEV3dml5dDdWbEwxNUhaWVpRPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-7, DMAX
- https://cdnseek.xyz:8443/live/dmax/chunks.m3u8?nimblesessionid=543453&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDE6NTc6NDkgUE0maGFzaF92YWx1ZT04aHIzZGpHTTdrelJVRlY1M0NyK253PT0mdmFsaWRtaW51dGVzPTE=
+https://cdnseek.xyz:8443/live/dmax/chunks.m3u8?nimblesessionid=543453&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDE6NTc6NDkgUE0maGFzaF92YWx1ZT04aHIzZGpHTTdrelJVRlY1M0NyK253PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-8, RTL
 https://cdnseek.xyz:8443/live/rtl/chunks.m3u8?nimblesessionid=543531&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDI6MDE6MDQgUE0maGFzaF92YWx1ZT1nUy9TT0NUMDY4SXZEa0Jlc2UzUEFRPT0mdmFsaWRtaW51dGVzPTE=
