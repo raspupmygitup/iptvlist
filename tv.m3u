@@ -12,7 +12,7 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-6 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-7, RTL tvg-name="RTL"
-https://cdnseek.xyz:8443/live/prosieben/chunks.m3u8?nimblesessionid=1564695&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMCA1OjQ0OjA0IEFNJmhhc2hfdmFsdWU9N3dJcFI0NWFrdGFROWV3K1dyaHo5QT09JnZhbGlkbWludXRlcz0zMA==
+https://cdnseek.xyz:8443/live/rtl/chunks.m3u8?nimblesessionid=1564754&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMCA1OjU2OjMzIEFNJmhhc2hfdmFsdWU9dFNudCtiN3dTZ25yQ0ZCWEU1WW8vdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
 https://cdnseek.xyz:8443/live/prosieben/chunks.m3u8?nimblesessionid=1564695&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMCA1OjQ0OjA0IEFNJmhhc2hfdmFsdWU9N3dJcFI0NWFrdGFROWV3K1dyaHo5QT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-9, Sat 1 tvg-name="Sat 1"
