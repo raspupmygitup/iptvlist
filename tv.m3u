@@ -14,9 +14,7 @@ http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-7, RTL tvg-name="RTL"
 
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
-
-#EXTINF:-9, Sat 1 tvg-name="Sat 1"
-
+https://s1.hopslan.com/pro7/tracks-v1a1/mono.m3u8#EXTINF:-9, Sat 1 tvg-name="Sat 1"
 #EXTINF:-10, DMAX tvg-name="DMAX"
 
 #EXTINF:-11, Kabel 1 tvg-name="kabel 1"
