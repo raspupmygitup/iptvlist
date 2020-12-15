@@ -14,7 +14,8 @@ http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-7, RTL tvg-name="RTL"
 https://cdnseek.xyz:8443/live/rtl/chunks.m3u8?nimblesessionid=1564754&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMCA1OjU2OjMzIEFNJmhhc2hfdmFsdWU9dFNudCtiN3dTZ25yQ0ZCWEU1WW8vdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
-https://c6.eniyigiyim.com/web/1/n.xcxc.cf/c3/1608061687/eGKIpX1851OsO50DXHsriQ/10695.m3u8#EXTINF:-9, Sat 1 tvg-name="Sat 1"
+https://c6.eniyigiyim.com/web/1/n.xcxc.cf/c3/1608061687/eGKIpX1851OsO50DXHsriQ/10695.m3u8
+#EXTINF:-9, Sat 1 tvg-name="Sat 1"
 https://cdnseek.xyz:8443/live/sat1/chunks.m3u8?nimblesessionid=1564713&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMCA1OjQ1OjMxIEFNJmhhc2hfdmFsdWU9V1JVQklUZ0VzSENWYzJ6UTNRRmt0dz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-10, DMAX tvg-name="DMAX"
 https://cdnseek.xyz:8443/live/dmax/chunks.m3u8?nimblesessionid=1564711&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMCA1OjQ1OjMzIEFNJmhhc2hfdmFsdWU9QUh6UEd3RnVsYmpkRUM3dEdWZVBpdz09JnZhbGlkbWludXRlcz0zMA==
