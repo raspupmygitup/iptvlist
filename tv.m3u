@@ -16,7 +16,7 @@ https://s11.hopslan.com/pro7/tracks-v1a1/mono.m3u8
 #EXTINF:-10, DMAX tvg-name="DMAX"
 https://s1.hopslan.com/dmaxq/tracks-v1a1/mono.m3u8
 #EXTINF:-11, Kabel 1 tvg-name="kabel 1"
-https://s1.hopslan.com/kabel1q/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/kabel1/tracks-v1a1/mono.m3u8
 #EXTINF:-11, Sat 1 tvg-name="Sat 1"
 https://s1.hopslan.com/sat1q/tracks-v1a1/mono.m3u8
 #EXTINF:-11, Kabel 1 Doku tvg-name="Kabel 1 Doku"
