@@ -25,3 +25,5 @@ https://s3.hopslan.com/dokuu/tracks-v1a1/mono.m3u8
 https://s5.hopslan.com/ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-13, RTL tvg-name="RTL"
 https://s11.hopslan.com/rtl/tracks-v1a1/mono.m3u8
+#EXTINF:-14, VOX tvg-name="VOX"
+https://s11.hopslan.com/vox/tracks-v1a1/mono.m3u8
