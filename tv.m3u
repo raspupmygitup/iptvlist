@@ -12,18 +12,18 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-6 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
-https://s11.hopslan.com/pro7/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/pro7/index.m3u8
 #EXTINF:-10, DMAX tvg-name="DMAX"
-https://s11.hopslan.com/dmax/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/dmax/index.m3u8
 #EXTINF:-11, Kabel 1 tvg-name="kabel 1"
-https://s11.hopslan.com/kabel1/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/kabel1/index.m3u8
 #EXTINF:-11, Sat 1 tvg-name="Sat 1"
-https://s11.hopslan.com/sat1/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/sat1/index.m3u8
 #EXTINF:-11, Kabel 1 Doku tvg-name="Kabel 1 Doku"
-https://s3.hopslan.com/dokuu/tracks-v1a1/mono.m3u8
+https://s3.hopslan.com/dokuu/index.m3u8
 #EXTINF:-12, NTV tvg-name="NTV"
-https://s5.hopslan.com/ntv/tracks-v1a1/mono.m3u8
+https://s5.hopslan.com/ntv/index.m3u8
 #EXTINF:-13, RTL tvg-name="RTL"
-https://s11.hopslan.com/rtl/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/rtl/index.m3u8
 #EXTINF:-14, VOX tvg-name="VOX"
-https://s11.hopslan.com/vox/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/vox/index.m3u8
