@@ -12,7 +12,7 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-6 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
-https://cdnseek.xyz:8443/live/prosieben/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCAzOjU2OjA1IFBNJmhhc2hfdmFsdWU9elduSkpMUGdYTjNoUWMyZHEwR2l3dz09JnZhbGlkbWludXRlcz0zMA==
+https://s11.hopslan.com/pro7/index.m3u8
 #EXTINF:-10, DMAX tvg-name="DMAX"
 https://s11.hopslan.com/dmax/index.m3u8
 #EXTINF:-11, Kabel 1 tvg-name="kabel 1"
