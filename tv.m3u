@@ -12,9 +12,9 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-6 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
-https://cdnseek.xyz:8443/live/prosieben/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCAzOjU2OjA1IFBNJmhhc2hfdmFsdWU9elduSkpMUGdYTjNoUWMyZHEwR2l3dz09JnZhbGlkbWludXRlcz0zMA==
+https://cdnseek.xyz:8443/live/prosieben/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCAzOjU2OjA1IFBNJmhhc2hfdmFsdWU9elduSkpMUGdYTjNoUWMyZHEwR2l3dz09JnZhbGlkbWludXRlcz0zMA=="
 #EXTINF:-10, DMAX tvg-name="DMAX"
-https://cdnseek.xyz:8443/live/dmax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCA0OjAyOjUzIFBNJmhhc2hfdmFsdWU9L2V3UFJNSWpLa1lSNTc1VWxYbVhBQT09JnZhbGlkbWludXRlcz0zMA==
+https://cdnseek.xyz:8443/live/dmax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCA0OjAyOjUzIFBNJmhhc2hfdmFsdWU9L2V3UFJNSWpLa1lSNTc1VWxYbVhBQT09JnZhbGlkbWludXRlcz0zMA=="
 #EXTINF:-11, Kabel 1 tvg-name="kabel 1"
 https://s11.hopslan.com/kabel1/index.m3u8
 #EXTINF:-11, Sat 1 tvg-name="Sat 1"
@@ -24,6 +24,6 @@ https://s3.hopslan.com/dokuu/index.m3u8
 #EXTINF:-12, NTV tvg-name="NTV"
 https://s5.hopslan.com/ntv/index.m3u8
 #EXTINF:-13, RTL tvg-name="RTL"
-https://cdnseek.xyz:8443/live/rtl/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCA0OjAwOjQ3IFBNJmhhc2hfdmFsdWU9SGhTcHNvdHpjeGlXMGQzSk5wdlhHUT09JnZhbGlkbWludXRlcz0zMA==
+https://cdnseek.xyz:8443/live/rtl/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCA0OjAwOjQ3IFBNJmhhc2hfdmFsdWU9SGhTcHNvdHpjeGlXMGQzSk5wdlhHUT09JnZhbGlkbWludXRlcz0zMA=="
 #EXTINF:-14, VOX tvg-name="VOX"
 https://s11.hopslan.com/vox/index.m3u8
