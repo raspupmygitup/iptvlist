@@ -24,6 +24,6 @@ https://s3.hopslan.com/dokuu/index.m3u8
 #EXTINF:-12, NTV tvg-name="NTV"
 https://s5.hopslan.com/ntv/index.m3u8
 #EXTINF:-13, RTL tvg-name="RTL"
-https://s11.hopslan.com/rtl/index.m3u8
+https://cdnseek.xyz:8443/live/rtl/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMCA0OjAwOjQ3IFBNJmhhc2hfdmFsdWU9SGhTcHNvdHpjeGlXMGQzSk5wdlhHUT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-14, VOX tvg-name="VOX"
 https://s11.hopslan.com/vox/index.m3u8
