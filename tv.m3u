@@ -12,7 +12,7 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-6 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
-https://cdnseek.xyz:8443/live/prosieben/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCA5OjM3OjIzIEFNJmhhc2hfdmFsdWU9bXRrNmNqNk9KdDNZVVIxZHBRNVhDZz09JnZhbGlkbWludXRlcz0zMA==
+https://cdnseek.xyz:8443/live/prosieben/chunks_dvr.m3u8?nimblesessionid=1710553&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCAxMDo0NToyNSBBTSZoYXNoX3ZhbHVlPUtLTEkycjR4ZXlERXBOaCtGYlFITEE9PSZ2YWxpZG1pbnV0ZXM9MzA=
 #EXTINF:-10, DMAX tvg-name="DMAX"
 https://cdnseek.xyz:8443/live/dmax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCA5OjU1OjM5IEFNJmhhc2hfdmFsdWU9ei9hOVplMEVTdTl5bnZMVnYzZW9nZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-11, Kabel 1 tvg-name="kabel 1"
