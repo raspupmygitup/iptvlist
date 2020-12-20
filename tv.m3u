@@ -26,4 +26,4 @@ https://s5.hopslan.com/ntv/index.m3u8
 #EXTINF:-13, RTL tvg-name="RTL"
 https://cdnseek.xyz:8443/live/rtl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCA5OjQ4OjU2IEFNJmhhc2hfdmFsdWU9dGlwMDRTUFM1cUZ6aVczUjlxU09MZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-14, VOX tvg-name="VOX"
-https://s11.hopslan.com/vox/index.m3u8
+https://cdnseek.xyz:8443/live/vox/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCA5OjU4OjIxIEFNJmhhc2hfdmFsdWU9T3puaThUb3N6Qjd0dFIxL1pPS1BDdz09JnZhbGlkbWludXRlcz0zMA==
