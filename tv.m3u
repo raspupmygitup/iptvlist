@@ -20,7 +20,7 @@ https://cdnseek.xyz:8443/live/kabeleins/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-11, Sat 1 tvg-name="Sat 1"
 https://cdnseek.xyz:8443/live/sat1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCA5OjUzOjIxIEFNJmhhc2hfdmFsdWU9bUFFYXBFSTd0UGdCbGVjR3M3RWlMUT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-11, Kabel 1 Doku tvg-name="Kabel 1 Doku"
-https://s3.hopslan.com/dokuu/index.m3u8
+https://cdnseek.xyz:8443/live/kabel1doku/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCAxMDowMTo1MyBBTSZoYXNoX3ZhbHVlPUdwVDBqeUo2VFV0MDl6UUtIRVJqSWc9PSZ2YWxpZG1pbnV0ZXM9MzA=
 #EXTINF:-12, NTV tvg-name="NTV"
 https://s5.hopslan.com/ntv/index.m3u8
 #EXTINF:-13, RTL tvg-name="RTL"
