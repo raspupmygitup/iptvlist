@@ -14,7 +14,7 @@ http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:-8, Pro 7 tvg-name="Pro 7"
 https://cdnseek.xyz:8443/live/prosieben/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCA5OjM3OjIzIEFNJmhhc2hfdmFsdWU9bXRrNmNqNk9KdDNZVVIxZHBRNVhDZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-10, DMAX tvg-name="DMAX"
-https://s11.hopslan.com/dmaxz/index.m3u8
+https://cdnseek.xyz:8443/live/dmax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCA5OjU1OjM5IEFNJmhhc2hfdmFsdWU9ei9hOVplMEVTdTl5bnZMVnYzZW9nZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-11, Kabel 1 tvg-name="kabel 1"
 https://s11.hopslan.com/kabel1/index.m3u8
 #EXTINF:-11, Sat 1 tvg-name="Sat 1"
