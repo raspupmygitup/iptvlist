@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Nikelodeon tvg-name="Nikelodeon" tvg-logo="https://kress.de/uploads/pics/nickelodeon-Logo-2010.jpg" group-title="", Nikeolodeon
-http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8?sd=10&rebase=on
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 #EXTINF:-2, N 24 tvg-name="N 24" tvg-logo="https://www.horizont.net/news/media/18/N24-176969-detailnp.jpeg" group-title="", N 24
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-3, Servus TV tvg-name="Servus TV" tvg-logo="https://www.servustv.com/content/themes/rbmh-base-theme/src/img/svg/servus-logo.svg" group-title="", Servus TV
