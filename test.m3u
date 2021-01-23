@@ -11,3 +11,5 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8?m=1584185142
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-6 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
+#EXTINF:-5, Prosieben tvg-name="Prosieben" tvg-logo="" group-title="", Prosieben
+https://cdnseek.xyz:8443/live/prosieben/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIxIDQ6MDk6MjUgUE0maGFzaF92YWx1ZT0vY3EzWUhwMk1acGk2RGt2enJ0SnBRPT0mdmFsaWRtaW51dGVzPTMw
