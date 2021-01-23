@@ -17,3 +17,5 @@ https://cdnseek.xyz:8443/live/prosieben/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3
 https://cdnseek.xyz:8443/live/sat1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIxIDQ6MjY6MDQgUE0maGFzaF92YWx1ZT13MnZuOWxxb3dVdXFhZzRlUm1ndFdnPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-5, DMAX tvg-name="DMAX" tvg-logo="" group-title="", DMAX
 https://cdnseek.xyz:8443/live/dmax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIxIDQ6MzA6MjAgUE0maGFzaF92YWx1ZT1qMmNqeEpWQlRWdjdJN1pndGQvZHBnPT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-5, Prosiebenmaxx tvg-name="Prosiebenmaxx" tvg-logo="" group-title="", Prosiebenmaxx
+https://cdnseek.xyz:8443/live/pro7maxx/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIxIDQ6MzY6MzYgUE0maGFzaF92YWx1ZT1icXVDV0ozTzhHT3NpRmNzT3hjNmJ3PT0mdmFsaWRtaW51dGVzPTMw
