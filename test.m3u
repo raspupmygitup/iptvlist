@@ -16,3 +16,6 @@ https://s5.hopslan.com/disneyy/index.m3u8
 #EXTINF:-9 tvg-name="Kabel Eins" tvg-id="Kabel Eins" group-title="" tvg-logo="",Kabel Eins
 https://s11.hopslan.com/kabel1b/index.m3u8
 #EXTINF:-10 tvg-name="Kabel Eins Doku" tvg-id="Kabel Eins Doku" group-title="" tvg-logo="",Kabel Eins Doku
+https://s3.hopslan.com/dokuu/tracks-v1a1/mono.m3u8
+#EXTINF:-11 tvg-name="Prosieben MAXX tvg-id="Prosieben MAXX" group-title="" tvg-logo="",Prosieben MAXX
+https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
