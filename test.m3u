@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="pearl.tv" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
-https://cdnseek.xyz:8443/live/prosieben/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDIxIDc6MTk6MDMgQU0maGFzaF92YWx1ZT1iQVBqU3NxUHcrRDNmTzBDN0JPK1p3PT0mdmFsaWRtaW51dGVzPTMw
+#EXTINF:-1 tvg-name="RTL" tvg-id="RTL" group-title="" tvg-logo="",RTL
+https://s11.hopslan.com/rtlb/index.m3u8
+#EXTINF:-2 tvg-name="Prosieben" tvg-id="Prosieben" group-title="" tvg-logo="",Prosieben
+https://s11.hopslan.com/pro7b/index.m3u8
+#EXTINF:-3 tvg-name="Super RTL" tvg-id="Super RTL" group-title="" tvg-logo="",Super RTL
+https://s3.hopslan.com/supert/tracks-v1a1/mono.m3u8
+#EXTINF:-4 tvg-name="NTV" tvg-id="NTV" group-title="" tvg-logo="",NTV
+https://s5.hopslan.com/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-6 tvg-name="Sat Eins" tvg-id="Sat Eins" group-title="" tvg-logo="",Sat Eins
+https://s11.hopslan.com/sat1b/index.m3u8
