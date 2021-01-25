@@ -9,3 +9,10 @@ https://s3.hopslan.com/supert/tracks-v1a1/mono.m3u8
 https://s5.hopslan.com/ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-6 tvg-name="Sat Eins" tvg-id="Sat Eins" group-title="" tvg-logo="",Sat Eins
 https://s11.hopslan.com/sat1b/index.m3u8
+#EXTINF:-7 tvg-name="DMAX" tvg-id="DMAX" group-title="" tvg-logo="",DMAX
+https://s11.hopslan.com/dmaxb/index.m3u8
+#EXTINF:-8 tvg-name="Disney" tvg-id="Disney" group-title="" tvg-logo="",Disney
+https://s5.hopslan.com/disneyy/index.m3u8
+#EXTINF:-9 tvg-name="Kabel Eins" tvg-id="Kabel Eins" group-title="" tvg-logo="",Kabel Eins
+https://s11.hopslan.com/kabel1b/index.m3u8
+#EXTINF:-10 tvg-name="Kabel Eins Doku" tvg-id="Kabel Eins Doku" group-title="" tvg-logo="",Kabel Eins Doku
