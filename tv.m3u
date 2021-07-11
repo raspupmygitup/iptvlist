@@ -5,13 +5,5 @@ https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-3, Servus TV tvg-name="Servus TV" tvg-logo="https://www.servustv.com/content/themes/rbmh-base-theme/src/img/svg/servus-logo.svg" group-title="", Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
-#EXTINF:-4, ORF 2 tvg-name="ORF 2" tvg-logo="https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news.svg" group-title="", ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8?m=1584185142
-#EXTINF:-5, ORF 1 tvg-name="ORF 1" tvg-logo="https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news.svg" group-title="", ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-6 tvg-name="pearl.tv" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
-#EXTINF:-7, ORF 3 tvg-name="ORF 3"
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-8, ORF Sport + tvg-name="ORF Sport +"
-https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
